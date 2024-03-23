@@ -133,3 +133,18 @@ h1::after {
     display: inline;
     width: 50px;
 }
+.address::before {
+    content: url("/2303repository/25489.jpg");
+    display: inline;
+    width:30px;
+}
+
+.tel::before {
+    content: url("/2303repository/home.jpg");
+    display: inline;
+    width:30px;
+}
+
+.nav-link:hover {
+    border-bottom: 1px solid blue;
+}
