@@ -137,12 +137,14 @@ h1::after {
     content: url("/2303repository/25489.jpg");
     display: inline;
     width:30px;
+    height:30px;
 }
 
 .tel::before {
     content: url("/2303repository/home.jpg");
     display: inline;
     width:30px;
+    height:30px;
 }
 
 .nav-link:hover {
