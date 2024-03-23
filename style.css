@@ -119,3 +119,11 @@ aside {
 .hit {
     position: absolute;
 }
+
+h1::before {
+    content: url("/2303repository/36.png");
+}
+
+h1::after {
+    content: url("/2303repository/36.png");
+}
