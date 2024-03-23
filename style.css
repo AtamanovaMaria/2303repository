@@ -134,15 +134,15 @@ h1::after {
     width: 50px;
 }
 .address::before {
-    content: url("/2303repository/25489.jpg");
-    display: block;
+    content: url("/2303repository/36.png");
+    display: inline;
     width:30px;
     height:30px;
 }
 
 .tel::before {
-    content: url("/2303repository/home.jpg");
-    display: block;
+    content: url("/2303repository/36.png");
+    display: inline;
     width:30px;
     height:30px;
 }
