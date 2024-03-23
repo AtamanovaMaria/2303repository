@@ -135,14 +135,14 @@ h1::after {
 }
 .address::before {
     content: url("/2303repository/25489.jpg");
-    display: inline;
+    display: block;
     width:30px;
     height:30px;
 }
 
 .tel::before {
     content: url("/2303repository/home.jpg");
-    display: inline;
+    display: block;
     width:30px;
     height:30px;
 }
