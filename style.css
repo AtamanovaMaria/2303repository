@@ -118,6 +118,8 @@ aside {
 
 .hit {
     position: absolute;
+    top: 5px;
+    right: 5px;
 }
 
 h1::before {
