@@ -124,8 +124,12 @@ aside {
 
 h1::before {
     content: url("/2303repository/36.png");
+    display: inline;
+    width:50px;
 }
 
 h1::after {
     content: url("/2303repository/36.png");
+    display: inline;
+    width: 50px;
 }
